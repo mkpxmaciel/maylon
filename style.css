@@ -67,7 +67,19 @@
     text-align: center;
     }
     
-    
+    .servico{
+        display: flex; 
+        width: 100vw;
+        height: 300px;
+        justify-content: center;
+    }
+
+    .item-servica{
+        display: flex;
+        width: 15%;
+        height: 290px;
+        border: 1px solid #cccccc;
+    }
     
     
     
