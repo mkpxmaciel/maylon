@@ -96,6 +96,17 @@
         text-transform: uppercase;
         font-size: 40px;
     }
-    
-    
+
+    #item1{
+      background-image: url(https://images.pexels.com/photos/1895701/pexels-photo-1895701.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);  
+      background-size: cover;
+    }
+     #item2{
+      background-image: url(https://images.pexels.com/photos/3162022/pexels-photo-3162022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);  
+      background-size: cover;
+      
+     #item3{
+      background-image: url(https://images.pexels.com/photos/2318055/pexels-photo-2318055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);  
+      background-size: cover;
+      
     
